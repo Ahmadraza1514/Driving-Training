@@ -10,7 +10,7 @@ The **Driving Tutorial App for HoloLens** is an immersive mixed reality applicat
 *User interaction with driving rules and guidance in 3D space.*  
 
 ---
-![project1-demo]https://github.com/user-attachments/assets/9b8b3874-1214-4c86-8a4b-74cf7a40552c
+![project1-demo](https://github.com/user-attachments/assets/9b8b3874-1214-4c86-8a4b-74cf7a40552c)
 ---
 ## Features  
 ### 1. Interactive Driving Lessons  
